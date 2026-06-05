@@ -62,7 +62,7 @@ WhosBuying-Decoding-Customer-Shopping-Patterns/
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](assets/dashboard-preview.png)
+![Customer Behavior Dashboard]([assets/dashboard-preview.png](https://github.com/Shaswati101/WhosBuying-Decoding-Customer-Shopping-Patterns/blob/main/Customer_Behavior_Dashboard.pdf))
 
 ---
 
