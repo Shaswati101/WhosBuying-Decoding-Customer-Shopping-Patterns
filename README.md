@@ -18,6 +18,9 @@ Python (Pandas, Matplotlib) | PostgreSQL | Power BI
 ## Project Structure
 Explain what each file is
 
+##[Dashboard](https://github.com/user-attachments/files/28624868/Customer_Behavior_Dashboard.pdf)
+
+
 ## Dashboard Preview
 [Add a screenshot of the Power BI dashboard — this is critical]
 
